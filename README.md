@@ -2,11 +2,11 @@
 
 ## Was ist das hier?
 
-Dieses kleine Soundboard ist dazu gedacht, die passenden Töne in Videokonferenzen und Workshops mit einem Klick parat zu haben. Hier kannst Du das Soundboard nutzen: https://ebildungslabor.github.io/soundboard/
+Das ist ein Soundboard 
 
 ## Wer hat es gemacht?
 
-Der Code stammt aus dem Repository [50 Projects - 50 Days](https://github.com/bradtraversy/50projects50days). Ich habe es angepasst, übersetzt und CC0-Audios dazu recherchiert, so dass eine Nutzung rechtlich sicher möglich ist. 
+Der Code stammt aus dem Repository [50 Projects - 50 Days](https://github.com/bradtraversy/50projects50days). [Nele Hirsch]( https://ebildungslabor.github.io/soundboard/) hat es angepasst, übersetzt und CC0-Audios dazu recherchiert, so dass eine Nutzung rechtlich sicher möglich ist. Diese Vorgehensweise habe ich übernommen und den Fork mit entsprechenden Tönen angepasst. 
 
 ## Wie kann ich selbst ein Soundboard gestalten?
 
